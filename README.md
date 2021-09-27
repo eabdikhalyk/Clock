@@ -1,2 +1,3 @@
 # Clock
-First steps in JavaScript
+
+https://codepen.io/eabdikhalyk/pen/oNwQMEg
